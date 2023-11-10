@@ -1,0 +1,56 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+    viewBox="0 0 800 800" style="enable-background:new 0 0 800 800;" xml:space="preserve">
+  <style type="text/css">
+    .st0{fill:#FBF8F4;}
+    .st1{fill:none;stroke:#000000;stroke-miterlimit:10;}
+    .st2{fill:none;}
+    .st3{fill:#424242;}
+    .st4{font-size:114.221px; }
+    .st6{font-size:22px;}
+    .st7{fill:#95DB93;}
+    .st8{fill:#114C78;}
+    .st9{fill:#FDC158;}
+    .st10{fill:#49AF48;}
+    .st11{fill:#009BA5;}
+    .st12{fill:#8484C1;}
+    .st13{fill:#E9E9E9;}
+    .st14{fill:#0D4D95;}
+  </style>
+  <g id="background">
+    <circle class="st0" cx="404.3" cy="403.4" r="220.3"/>
+    <circle class="st1" cx="404.3" cy="403.4" r="183.1"/>
+    <rect x="261.4" y="338.4" class="st2" width="286" height="113.2"/>
+    <text transform="matrix(1 0 0 1 274.0457 425.3967)" class="st3 st4 pie-charts__title">$79B</text>
+    <rect x="261.4" y="469.5" class="st2" width="286" height="56.6"/>
+    <text transform="matrix(1 0 0 1 345.2869 485.7395)" class="st3 st5 st6 pie-charts__sub-title">Total Assets</text>
+  </g>
+  <g id="money_x5F_market">
+    <path class="st7" d="M399.2,135.2c0.2,0,0.4,0,0.6,0V49c-17.8,0-37.8,1.6-55.4,4.4l13.5,84.9C371.4,136.2,385.1,135.2,399.2,135.2z
+      "/>
+  </g>
+  <g id="public_x5F_equities">
+    <path class="st8" d="M130.2,404.1c0-134.5,98.7-245.9,227.7-265.8l-13.5-84.9c-63.9,10.1-117.1,33.8-167.3,74.5
+      C25.2,250.9,1.8,473.7,124.8,625.6l65-52.7C152.6,526.7,130.2,468,130.2,404.1z"/>
+  </g>
+  <g id="fixed_x5F_income">
+    <path class="st9" d="M399.2,673c-84.6,0-160-39.1-209.3-100.1l-65,52.7c107,132.1,284.2,169.8,435.7,92.6l-38.2-74.9
+      C485.4,662.3,443.5,673,399.2,673z"/>
+  </g>
+  <g id="real_x5F_estate">
+    <path class="st10" d="M522.3,643.2l38.2,74.9c104.8-53.4,170.5-143.7,188.9-259.9L665,444.9C651.9,531.5,597.4,604.5,522.3,643.2z"
+      />
+  </g>
+  <g id="public_x5F_market">
+    <path class="st11" d="M744.6,323.3L661,342.6c4.6,19.8,7.1,40.4,7.1,61.5c0,13.9-1.1,27.5-3.1,40.8l84.3,13.3
+      C756.9,410.4,755.5,370.5,744.6,323.3z"/>
+  </g>
+  <g id="infrastructure">
+    <path class="st12" d="M661,342.6l83.6-19.3c-14-60.6-40.2-111-81.8-157.2l-64.1,57.7C628.7,256.9,650.5,297.6,661,342.6z"/>
+  </g>
+  <g id="global_x5F_credit">
+    <path class="st13" d="M598.7,223.8l64.1-57.7c-39.6-44-86.3-75.5-141.9-95.7l-29.5,81C532.9,166.5,569.6,191.6,598.7,223.8z"/>
+  </g>
+  <g id="private_x5F_equity">
+    <path class="st14" d="M491.3,151.4l29.5-81C478.2,54.8,445.1,49,399.8,49v86.2C432,135.2,462.8,140.9,491.3,151.4z"/>
+  </g>
+</svg>
